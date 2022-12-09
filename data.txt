@@ -1,0 +1,2 @@
+    add X  b  ,xs  ,x     d
+acc x   bs, x d, x s    
